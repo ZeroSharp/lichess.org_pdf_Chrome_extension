@@ -11,7 +11,8 @@
       "256": "icons/knight256.png",
       "32": "icons/knight32.png",
       "512": "icons/knight512.png",
-      "64": "icons/knight64.png"
+      "64": "icons/knight64.png",
+      "48": "icons/knight48.png"
   },
   "default_locale": "en",
   "content_scripts": [ 
@@ -30,7 +31,8 @@
       "256": "icons/knight256.png",
       "32": "icons/knight32.png",
       "512": "icons/knight512.png",
-      "64": "icons/knight64.png"
+      "64": "icons/knight64.png",
+      "48": "icons/knight48.png"
       }
   },
   "permissions": [ 
