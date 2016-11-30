@@ -1,0 +1,14 @@
+{
+   "description": {
+      "description": "A short description of the extension",
+      "message": "Restores the 'print-friendly PDF' feature of lichess. Exports any game as a pretty-printed PDF file."
+   },
+   "locale": {
+      "description": "2-letter language code (excluding subvariant)",
+      "message": "en"
+   },
+   "name": {
+      "description": "Extension name",
+      "message": "Lichess print-friendly PDF"
+   }
+}
