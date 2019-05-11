@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.0.2
+
+* Fixed error reporting.
+
 ## Version 2.0.1
 
 * Better error reporting.
